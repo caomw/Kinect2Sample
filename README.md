@@ -1,11 +1,11 @@
 ﻿Kinect for Windows SDK v2 Sample Program
 ==========================================================
 
-[![Gittip](http://img.shields.io/gratipay/TsukasaSugiura.svg)](https://gratipay.com/TsukasaSugiura/)  
-
 Sample Program of Kinect for Windows SDK v2  
 I will continue to add new sample program when published article in Build Insider.
 
+**This repository has not been maintenance a long time.**  
+**I recommend to refer the [sample program](https://github.com/K4W2-Book/K4W2-Book) of Kinect v2 Book that written by us.**  
 
 Disclaimer
 ----------
